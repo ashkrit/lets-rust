@@ -1,2 +1,2 @@
 # lets-rust
-Rust learning experience
+Rust learning experience via books , blogs and conference
